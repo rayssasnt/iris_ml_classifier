@@ -1,15 +1,5 @@
 # carregando os dados
 
-import sys
-print("Python path:", sys.executable)
-
-try:
-    import sklearn
-    print("scikit-learn version:", sklearn.__version__)
-except ModuleNotFoundError:
-    print("scikit-learn NÃO está instalado no ambiente de execução.")
-
-
 from sklearn.datasets import load_iris #dados
 import pandas as pd
 
