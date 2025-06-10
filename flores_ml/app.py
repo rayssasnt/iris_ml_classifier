@@ -56,6 +56,9 @@ if st.button("🔍 Prever Espécie"):
     st.success(f"A flor provavelmente é da espécie **{especie.capitalize()}**")
 
     st.markdown("### 📷 Imagem da Flor")
-    imagem = f"imgs/{especie}.jpeg"
-    st.image(imagem, caption=f"Flor da espécie: {especie.capitalize()}", use_container_width=True)
+    import os
+
+    caminho_imagem = os.path.join(os.path.dirname(__file__), "imgs", f"{especie}.jpeg")
+    st.image(caminho_imagem, caption=f"Flor da espécie: {especie.capitalize()}", use_container_width=True)
+
 
