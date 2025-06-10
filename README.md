@@ -12,7 +12,7 @@ Este é um projeto simples de **Machine Learning com interface interativa**, que
 Execute o codigo no terminal:
 - streamlit run app.py
 
-##Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 - Python
 - Scikit-learn
 - Streamlit
