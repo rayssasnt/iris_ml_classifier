@@ -10,12 +10,12 @@ Este é um projeto simples de **Machine Learning com interface interativa**, que
 - O usuário pode ajustar as medidas da flor (sépala e pétala) e prever a espécie correspondente com apenas um clique
 
 Execute o codigo no terminal:
-streamlit run app.py
+- streamlit run app.py
 
-Tecnologias Utilizadas:
-Python
-Scikit-learn
-Streamlit
-Pandas
-Matplotlib
+##Tecnologias Utilizadas:
+- Python
+- Scikit-learn
+- Streamlit
+- Pandas
+- Matplotlib
 
