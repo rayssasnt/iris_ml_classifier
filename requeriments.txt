@@ -1,5 +1,9 @@
 scikit-learn
-streamlit==1.0.2
+streamlit
 pandas
 matplotlib
+load_iris 
+LinearRegression 
+train_test_split
+RandomForestClassifier
 
