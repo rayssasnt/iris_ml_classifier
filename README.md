@@ -3,6 +3,8 @@
 
 Este é um projeto simples de **Machine Learning com interface interativa**, que utiliza o famoso dataset **Iris** do Scikit-learn para classificar espécies de flores com base em suas características morfológicas.
 
+## link : https://irismlclassifier-craq6xay94ey4uk3txnz6r.streamlit.app/
+
 ## 🔍 Sobre o Projeto
 
 - O modelo utilizado é um **Random Forest Classifier**
